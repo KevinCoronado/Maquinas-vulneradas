@@ -10,7 +10,13 @@ Este repositorio contiene un archivo Excel donde documento las máquinas vulnera
 - dumbledore
 - matrix
 - brainpain
+- DarkHole2
+- Devguru
+- HackerKid
+- ArseneLupin
+- Raven 1
+- WebDeveloper
 
 Próximamente iré actualizando este repositorio con nuevas máquinas y mejoras en el archivo Excel.
 
-¡Happy hacking!
+
