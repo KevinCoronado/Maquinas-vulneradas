@@ -1,6 +1,6 @@
 # Máquinas vulneradas
 
-Este repositorio contiene un archivo Excel donde documento las máquinas vulneradas en mi progreso. En el archivo se detallan técnicas utilizadas, herramientas empleadas y notas relevantes para cada máquina.
+Repositorio donde documento el proceso del pentesting realizado a maquinas CTF. 
 
 ## Máquinas vulneradas hasta ahora
 
