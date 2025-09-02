@@ -17,6 +17,6 @@ Repositorio donde documento el proceso del pentesting realizado a maquinas CTF.
 - Raven 1
 - WebDeveloper
 
-Próximamente iré actualizando este repositorio con nuevas máquinas y mejoras en el archivo Excel.
+Próximamente iré actualizando este repositorio con nuevas máquinas.
 
 
