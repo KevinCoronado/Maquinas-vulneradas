@@ -4,19 +4,23 @@ Repositorio donde documento el proceso del pentesting realizado a maquinas CTF.
 
 ## Máquinas vulneradas hasta ahora
 
-- aragog
-- nagini
-- fawkes
-- dumbledore
-- matrix
-- brainpain
+- Aragog
+- ArseneLupin
+- Brainpain
+- Breakout
 - DarkHole2
 - Devguru
+- Dumbledore
+- Fawkes
+- HackMePlease
 - HackerKid
-- ArseneLupin
+- Matrix
+- Nagini
 - Raven 1
+- Sick0s
 - WebDeveloper
 
 Próximamente iré actualizando este repositorio con nuevas máquinas.
+
 
 
